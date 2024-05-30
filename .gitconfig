@@ -34,3 +34,6 @@
 [init]
 	defaultBranch = main
 
+[user]
+	name = Tea
+  email = teabuff@outlook.com
